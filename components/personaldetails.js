@@ -92,7 +92,7 @@ Vue.component('personaldetails', {
     methods: {
         addItem: function(item) {
             if (item == "NAME") {
-                this.person.items.push({ 'level': 1, 'tag': 'NAME', 'value': '', 'items': [{ 'level': 2, 'tag': 'GIVN', 'value': '' }, { 'level': 2, 'tag': 'SURN', 'value': '' }] });
+                this.person.items.push({ 'level': 1, 'tag': 'NAME', 'value': '', 'items': [{ 'level': 2, 'tag': 'GIVN', 'value': '' }, { 'level': 2, 'tag': 'MAID', 'value': '' }, { 'level': 2, 'tag': 'SURN', 'value': '' }] });
             } else if (item == "BIRTH") {
                 this.person.items.push({ 'level': 1, 'tag': 'BIRT', 'value': '', 'items': [{ 'level': 2, 'tag': 'DATE', 'value': '' }, { 'level': 2, 'tag': 'PLAC', 'value': '' }] });
             } else if (item == "DEATH") {
