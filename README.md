@@ -1,4 +1,4 @@
-# Genea
+# O Du Shoene
 
 O Du Shoene uses the [Genea.app](https://www.genea.app/) package to create a family tree for the Neumann family, decdents of Mutti and Vati.
 
