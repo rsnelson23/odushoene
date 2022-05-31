@@ -7,8 +7,8 @@ html {
 }
 
 svg.main_svg {
-  width: 100%;
-  height: 100%;
+  width: 150%;
+  height: 150%;
   background-color: rgb(121, 152, 166);
   color: rgb(121, 152, 166);
 }
