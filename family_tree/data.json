@@ -769,6 +769,14 @@
     "id": "89322798-35e5-40ba-8527-a8de5613a5fe",
     "data": {
       "gender": "M"
+	  "first name": "???",
+      "last name": "",
+      "birthday": "",
+      "avatar": "unknown.jpg",
+      "maiden name": "",
+      "location": "",
+      "burial": "",
+      "death date": ""
     },
     "rels": {
       "spouses": [
@@ -860,6 +868,14 @@
     "id": "ddeca48c-9f5f-4a16-b825-9d7f7eccfc21",
     "data": {
       "gender": "F"
+	  "first name": "???",
+      "last name": "",
+      "birthday": "",
+      "avatar": "unknown.jpg",
+      "maiden name": "",
+      "location": "",
+      "burial": "",
+      "death date": ""
     },
     "rels": {
       "spouses": [
@@ -903,7 +919,7 @@
       "first name": "Geoff",
       "last name": "???",
       "birthday": "3/1/1964",
-      "avatar": "",
+      "avatar": "unknown.jpg",
       "maiden name": "",
       "location": "",
       "burial": "",
@@ -1066,6 +1082,14 @@
     "id": "e060613e-c100-4ad6-ba1e-15b6415903f5",
     "data": {
       "gender": "M"
+	  "first name": "???",
+      "last name": "",
+      "birthday": "",
+      "avatar": "unknown.jpg",
+      "maiden name": "",
+      "location": "",
+      "burial": "",
+      "death date": ""
     },
     "rels": {
       "spouses": [
@@ -2046,7 +2070,7 @@
       "first name": "Nezhmi",
       "last name": "???",
       "birthday": "6/16/1982",
-      "avatar": "",
+      "avatar": "unknown.jpg",
       "maiden name": "",
       "location": "",
       "burial": "",
@@ -2067,6 +2091,14 @@
     "id": "987a9b75-b8d2-415f-a8da-418dbd5600ca",
     "data": {
       "gender": "M"
+	  "first name": "???",
+      "last name": "",
+      "birthday": "",
+      "avatar": "unknown.jpg",
+      "maiden name": "",
+      "location": "",
+      "burial": "",
+      "death date": ""
     },
     "rels": {
       "spouses": [
@@ -2086,7 +2118,7 @@
       "first name": "Jihan",
       "last name": "???",
       "birthday": "???",
-      "avatar": "",
+      "avatar": "unknown.jpg",
       "maiden name": "",
       "location": "",
       "burial": "",
@@ -2104,7 +2136,7 @@
       "first name": "Giselle",
       "last name": "Nizar",
       "birthday": "???",
-      "avatar": "",
+      "avatar": "unknown.jpg",
       "maiden name": "",
       "location": "",
       "burial": "",
@@ -2122,7 +2154,7 @@
       "first name": "Josh",
       "last name": "???",
       "birthday": "???",
-      "avatar": "",
+      "avatar": "unknown.jpg",
       "maiden name": "",
       "location": "",
       "burial": "",
@@ -2144,7 +2176,7 @@
       "first name": "Yasha",
       "last name": "???",
       "birthday": "???",
-      "avatar": "",
+      "avatar": "unknown.jpg",
       "maiden name": "",
       "location": "",
       "burial": "",
@@ -2383,7 +2415,7 @@
       "first name": "Travis",
       "last name": "Carver",
       "birthday": "5/12/1981",
-      "avatar": "",
+      "avatar": "unknown.jpg",
       "maiden name": "",
       "location": "",
       "burial": "",
@@ -2398,6 +2430,14 @@
     "id": "9c248ce2-7b53-490f-8815-3cc1c50ceec4",
     "data": {
       "gender": "M"
+	  "first name": "???",
+      "last name": "",
+      "birthday": "",
+      "avatar": "unknown.jpg",
+      "maiden name": "",
+      "location": "",
+      "burial": "",
+      "death date": ""
     },
     "rels": {
       "spouses": [
@@ -2799,6 +2839,14 @@
     "id": "71c023ab-e89a-49d6-9a5b-9da18c6647f2",
     "data": {
       "gender": "M"
+	  "first name": "???",
+      "last name": "",
+      "birthday": "",
+      "avatar": "unknown.jpg",
+      "maiden name": "",
+      "location": "",
+      "burial": "",
+      "death date": ""
     },
     "rels": {
       "spouses": [
