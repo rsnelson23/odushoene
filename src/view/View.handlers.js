@@ -40,7 +40,7 @@ export function treeFit({svg, svg_dim, tree_dim, with_transition, transition_tim
 }
 
 export function calculateTreeFit(svg_dim, tree_dim) {
-  let k = Math.min(svg_dim.width / tree_dim.width, svg_dim.height / tree_dim.height),
+  let k = Math.max(Math.min(svg_dim.width / tree_dim.width, svg_dim.height / tree_dim.height), 0.5),
     x = tree_dim.x_off + (svg_dim.width - tree_dim.width*k)/k/2,
     y = tree_dim.y_off + (svg_dim.height - tree_dim.height*k)/k/2
 
