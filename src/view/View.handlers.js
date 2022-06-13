@@ -31,7 +31,7 @@ function positionTree({t, svg, transition_time=2000}) {
   // d3.select(svg).call(zoom.transform, d3.zoomIdentity.translate(x*k, y*k))
 
   d3.select(svg).transition().duration(transition_time || 0).delay(transition_time ? 100 : 0)  // delay 100 because of weird error of undefined something in d3 zoom
-    .call(zoom.transform, d3.zoomIdentity.scale(t.k).translate(t.x, t.y))
+    .call(zoom.transform, d3.zoomIdentity.scale(0.5).translate(t.x, t.y))
 }
 
 export function treeFit({svg, svg_dim, tree_dim, with_transition, transition_time}) {
