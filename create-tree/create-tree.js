@@ -10,12 +10,12 @@ import {Form} from "../../src/view/elements/Form.js"
 
 (async () => {
   const cont = document.querySelector("#FamilyChart"),
-    card_dim = {w:220,h:70,text_x:75,text_y:15,img_w:60,img_h:60,img_x:5,img_y:5},
+    card_dim = {w:260,h:70,text_x:75,text_y:15,img_w:60,img_h:60,img_x:5,img_y:5},
     card_display = cardDisplay(),
     card_edit = cardEditParams(),
     store = f3.createStore({
       data: firstNode(),
-      node_separation: 250,
+      node_separation: 290,
       level_separation: 150
     }),
     view = f3.d3AnimationView({
